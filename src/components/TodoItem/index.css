@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.b {
+  font-size: 15px;
+  background-color: white;
+  border: 2px solid red;
+  color: red;
+  width:100px;
+  height:80px;
+  
+}
+.container {
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+  width:70vw;
+
+}
+.p {
+  font-size: 20px;
+  margin-right: 20px;
+}
